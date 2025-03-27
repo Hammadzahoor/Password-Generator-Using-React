@@ -56,7 +56,3 @@ This is a simple Password Generator application built with React and Vite. The a
 - `public/`: Contains static assets.
 - `vite.config.js`: Configuration for Vite.
 - `tailwind.config.js`: Configuration for Tailwind CSS.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
